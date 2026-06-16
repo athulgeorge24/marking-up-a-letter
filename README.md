@@ -10,14 +10,6 @@ A properly structured HTML document that marks up a university response letter t
 - Minimal CSS styling for clean presentation
 - Responsive design
 
-## File Structure
-
-- `index.html` - Main HTML document
-
-## Usage
-
-Open `index.html` in a web browser to view the formatted letter.
-
 ## Contents
 
 The letter includes:
